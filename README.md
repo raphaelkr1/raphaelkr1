@@ -51,7 +51,7 @@
     <img src="https://marcomm.wharton.upenn.edu/wp-content/uploads/2023/01/Wharton_Logo_Circle-1.png" alt="Wharton School - Quantitative Modeling" width="120" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://badges.plus.columbia.edu/298f783e-86e9-464f-ad4f" target="_blank">
+  <a href="https://badges.plus.columbia.edu/298f783e-86e9-464f-ad4f-06a7f908f684#acc.wkyvHJMt" target="_blank">
     <img src="https://gimgs2.nohat.cc/thumb/f/640/columbia-university-logo-png-transparent-columbia-university-logo--comdlpng6961338.jpg" alt="Columbia - AI" width="100" />
   </a>
   &nbsp;&nbsp;
