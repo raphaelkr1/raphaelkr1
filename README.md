@@ -45,4 +45,19 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
+<h3 align="left">Certifications:</h3>
+<p align="left">
+  <a href="https://coursera.org/share/ad7acc5a5eb81cc6396e707205c3d8f5" target="_blank">
+    <img src="https://marcomm.wharton.upenn.edu/wp-content/uploads/2023/01/Wharton_Logo_Circle-1.png" alt="Wharton School - Quantitative Modeling" width="120" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://badges.plus.columbia.edu/298f783e-86e9-464f-ad4f" target="_blank">
+    <img src="https://gimgs2.nohat.cc/thumb/f/640/columbia-university-logo-png-transparent-columbia-university-logo--comdlpng6961338.jpg" alt="Columbia - AI" width="100" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.coursera.org/account/accomplishments/records/3O768X2KK0OD" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUR2x7rHh7P6zer_EdUzpse9BXRy4u4MmxgQ&s" alt="HEC Paris - Investment Management" width="100" />
+  </a>
+</p>
+
 
