@@ -8,6 +8,15 @@
 - 📫 How to reach me: **khoury.rapha@gmail.com**
 
 ---
+<h2 align="center">Welcome to my portfolio</h2>
+<p align="center">Browse through my recent projects.</p>
+
+<p align="center">
+  <a href="https://github.com/raphaelkr1?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My-Projects-blue?style=for-the-badge&logo=github" alt="Projects Button"/>
+  </a>
+</p>
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
