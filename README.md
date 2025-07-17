@@ -16,7 +16,6 @@
     <img src="https://img.shields.io/badge/View%20My-Projects-blue?style=for-the-badge&logo=github" alt="Projects Button"/>
   </a>
 </p>
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
